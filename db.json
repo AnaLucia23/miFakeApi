@@ -1,0 +1,9 @@
+{
+    "planes": [
+        { "id": 1, "codigo": "1234", "nombrePlan": "Plan Unico", "plazo": "1 años", "anualidad": "110 dólares" },
+        { "id": 2, "codigo": "2345", "nombrePlan": "Plan Dosificado", "plazo": "2 años", "anualidad": "120 dólares" },
+        { "id": 3, "codigo": "3456", "nombrePlan": "Plan Tremendo", "plazo": "3 años", "anualidad": "130 dólares" },
+        { "id": 4, "codigo": "4567", "nombrePlan": "Plan Cuantificado", "plazo": "4 años", "anualidad": "140 dólares" },
+        { "id": 5, "codigo": "5678", "nombrePlan": "Plan Ciclico", "plazo": "5 años", "anualidad": "150 dólares" }
+    ]
+}
